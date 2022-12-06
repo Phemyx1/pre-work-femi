@@ -1,2 +1,2 @@
-# pre-work-femi
+# prework-study-guide
 my first repo project
